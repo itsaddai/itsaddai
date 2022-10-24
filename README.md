@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaddai&label=Profile%20views&color=0e75b6&style=flat" alt="itsaddai" /> </p>
 
-- 🌱 I’m currently learning **Java, C++**
+- 🌱 I’m currently learning: **Java, C++**
 
-- 👨‍💻 All of my projects are available at [iaddai.github.io](iaddai.github.io)
+- 👨‍💻 All of my projects are available at: [iaddai.github.io](iaddai.github.io)
 
-- 📫 How to reach me **https://www.linkedin.com/in/isaacaddai/**
+- 📫 How to reach me: **https://www.linkedin.com/in/isaacaddai/**
 
-- 🎓 Expected graduation **2025**
+- 🎓 Expected graduation: **2025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

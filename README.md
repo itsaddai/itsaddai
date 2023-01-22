@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaddai&label=Profile%20views&color=0e75b6&style=flat" alt="itsaddai" /> </p>
 
-- 🌱 I’m currently learning: **Java, C++**
+- 🌱 I’m currently learning: **Java, C**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/isaacaddai/**
 

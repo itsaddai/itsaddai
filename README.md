@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning: **Java, C++**
 
-- 👨‍💻 All of my projects are available at: [iaddai.github.io](iaddai.github.io)
-
 - 📫 How to reach me: **https://www.linkedin.com/in/isaacaddai/**
 
 - 🎓 Expected graduation: **2025**

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **Java, C**
 
-- 📫 How to reach me: **https://www.linkedin.com/in/isaacaddai/**
+- 📫 How to reach me: ****
 
 - 🎓 Expected graduation: **2025**
 
